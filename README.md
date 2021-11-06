@@ -58,6 +58,10 @@ For example:
 
 Can you see the problem? I put the semi-colon at the end of the selector! -facepalm- These little errors can really make or break your code. 
 
+### Conclusion 
+
+All in all, I had a fun time creating this responsive card because of the mistakes I've made. In the future, I would like to use SASS to reduce repetitive CSS code. 
+
 ## Author
 
 - Website - [gp0710](https://github.com/gp0710)
